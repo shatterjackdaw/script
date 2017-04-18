@@ -1,2 +1,3 @@
 # script
-个人写的脚本收集
+check_linux_status  使用psutil，监控linux的cpu，memory，disk
+
